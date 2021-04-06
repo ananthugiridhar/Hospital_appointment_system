@@ -15,32 +15,32 @@ Now only one patient can book a particular slot for a particular day. So if a pa
 ...................................................................................................
 
 
-##TO RUN PROJECT
+## TO RUN PROJECT
 
-###BACKEND:
+### BACKEND:
 	```
 	cd api
 	npm install
 	npm start
 	```
-####endpoint : [localhost:3000/appointments](https://localhost:3000/appointments)
+#### endpoint : [localhost:3000/appointments](https://localhost:3000/appointments)
    
-###FRONTEND
+### FRONTEND
 	```
 	cd app
 	ng build
 	ng s
 	```
 	
-###To book an appointment:
+### To book an appointment:
 	[localhost:4200](https://localhost:4200)
 	
-###to see all bookings:
+### to see all bookings:
 	[localhost:4200/appointment-list](https://localhost:4200/appointment-list)
 	
 	
 	
-##Tech stack
+## Tech stack
 * Database: Mongodb
 * Server: Nodejs (Express)
 * frontend: angular, material
