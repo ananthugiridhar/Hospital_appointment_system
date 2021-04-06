@@ -32,11 +32,11 @@ Now only one patient can book a particular slot for a particular day. So if a pa
 	ng s
 	```
 	
-### To book an appointment:
-	[localhost:4200](https://localhost:4200)
+### To book an appointment: [localhost:4200](https://localhost:4200)
 	
-### to see all bookings:
-	[localhost:4200/appointment-list](https://localhost:4200/appointment-list)
+	
+### to see all bookings: [localhost:4200/appointment-list](https://localhost:4200/appointment-list)
+	
 	
 	
 	
